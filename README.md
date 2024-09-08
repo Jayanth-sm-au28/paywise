@@ -34,3 +34,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+tech Stack Justification:
+Next.js App Router: Offers a flexible and robust routing mechanism, and the server-side rendering (SSR) helps with SEO and data prefetching, which is useful for crawling and extracting content.
+
+TypeScript (TSX): Ensures type safety and improves maintainability of the code, especially for a complex application like this.
+
+Tailwind CSS: Provides a utility-first approach to quickly build a responsive and customizable UI.
+
+MongoDB: A NoSQL database that is flexible for storing unstructured or semi-structured data like website content, user queries, and analytics.
